@@ -7,13 +7,12 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Баг-репорт](https://github.com/Vikitoga/money-transfer/issues/1#issue-995159166)
+* [Баг-репорт_Неверный расчет баланса при пополнении счёта клиента](https://github.com/Vikitoga/money-transfer/issues/1#issue-995159166)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Баг-репорт (https://github.com/Vikitoga/money-transfer/issues/1#issue-995159166)
 * Исходный код: 
 ```java
 public class Main {
